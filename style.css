@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap");
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --b: white;
+    --t: black;
+  }
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --b: black;
+    --t: white;
+  }
+}
+:root {
+  --a: cubic-bezier(0.07, 0.95, 0, 1);
+}
+
+body {
+  background: var(--b);
+  color: var(--t);
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  margin: 0;
+  /*overflow: hidden;*/
+}
+.flex {
+  align-items: center;
+  display: flex;
+  text-align: center;
+}
+.flex-col {
+  flex-direction: column;
+}
+.flex-row {
+  flex-direction: row;
+}
+main {
+  height: 100vh;
+}
+h1 {
+  font-size: 4.75vw;
+  margin: 1rem;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 1rem;
+  writing-mode: vertical-rl;
+
+  display: block;
+  animation: fadeX 900ms var(--a);
+}
+span {
+  text-align: center;
+  font-size: 15rem;
+  display: block;
+  animation: fadeY 900ms var(--a);
+}
+#t {
+  font-size: 3rem;
+}
+ul {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  font-size: 1.75rem;
+  list-style: none;
+  padding: 0;
+  user-select: none;
+
+  position: absolute;
+  bottom: 0;
+  right: 3%;
+}
+li {
+  padding: 1rem;
+  text-decoration: overline;
+}
+li:hover {
+  background: var(--t);
+  color: var(--b);
+  text-decoration: none;
+  transition: 1s var(--a);
+}
+
+::selection {
+  background: var(--t);
+  color: var(--b);
+}
+
+@media screen and (orientation: portrait) {
+  h1 {
+    font-size: 5vh;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+@keyframes fadeX {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeY {
+  0% {
+    transform: translateY(100%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
