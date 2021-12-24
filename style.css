@@ -1,15 +1,15 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
 
 @media (prefers-color-scheme: light) {
   :root {
-    --b: white;
-    --t: black;
+    --b: #f9f9f9;
+    --t: #0c0c0c;
   }
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --b: black;
-    --t: white;
+    --b: #0c0c0c;
+    --t: #f9f9f9;
   }
 }
 :root {
@@ -22,7 +22,7 @@ body {
   font-family: "Poppins", sans-serif;
   font-size: 16px;
   margin: 0;
-  /*overflow: hidden;*/
+  overflow-y: scroll;
 }
 .flex {
   align-items: center;
@@ -39,40 +39,52 @@ main {
   height: 100vh;
 }
 h1 {
-  font-size: 4.75vw;
-  margin: 1rem;
-  font-weight: 600;
-  text-decoration: none;
-  padding: 1rem;
-  writing-mode: vertical-rl;
-
+  animation: fadeX 1s var(--a);
   display: block;
-  animation: fadeX 900ms var(--a);
+  font-size: 4.75vw;
+  font-weight: 600;
+  margin: 0 1rem 0 0;
+  padding: 1rem;
+  text-decoration: none;
+  writing-mode: vertical-rl;
+  transition: 2s var(--a);
 }
+h1:hover {
+  background: var(--t);
+  color: var(--b);
+  transition: 2s var(--a);
+}
+
 span {
   text-align: center;
   font-size: 15rem;
   display: block;
-  animation: fadeY 900ms var(--a);
+  animation: fadeY 1s var(--a);
+}
+
+main.in {
+  background: var(--t);
+  color: var(--b);
 }
 #t {
   font-size: 3rem;
 }
 ul {
   align-items: center;
+  bottom: 0;
   display: flex;
   flex-direction: row;
   font-size: 1.75rem;
   list-style: none;
   padding: 0;
-  user-select: none;
-
   position: absolute;
-  bottom: 0;
   right: 3%;
+  user-select: none;
+  animation: fadeX 1s var(--a);
 }
 li {
-  padding: 1rem;
+  padding: 0.7rem;
+  margin: 0.3rem;
   text-decoration: overline;
 }
 li:hover {
@@ -80,6 +92,10 @@ li:hover {
   color: var(--b);
   text-decoration: none;
   transition: 1s var(--a);
+}
+li:active {
+  background-color: red;
+  transition: 200ms;
 }
 
 ::selection {
@@ -111,4 +127,47 @@ li:hover {
   100% {
     transform: translateY(0);
   }
+}
+
+@keyframes pivot {
+  0% {
+    transform: rotateZ(-90deg);
+  }
+  100% {
+    transform: rotateZ(0);
+  }
+}
+
+/* Custom scroll bar */
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--t) var(--b);
+}
+
+*::-webkit-scrollbar {
+  width: 0.5rem;
+}
+*::-webkit-scrollbar-track {
+  background: var(--b);
+}
+*::-webkit-scrollbar-thumb {
+  background: var(--t);
+}
+
+
+
+main {
+  scrollbar-width: thin;
+  scrollbar-color: var(--t) var(--b);
+}
+
+main.in::-webkit-scrollbar {
+  width: 0.5rem;
+}
+main.in::-webkit-scrollbar-track {
+  background: var(--b);
+}
+main.in::-webkit-scrollbar-thumb {
+  background: var(--t);
 }

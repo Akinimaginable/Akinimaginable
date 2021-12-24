@@ -1,0 +1,16 @@
+{
+  "name": "akinimaginable-website",
+  "version": "1.0.0",
+  "description": "High-school\r I enjoy creating things using lines of code, ricing my Linux, the opensource philosophy and taking pictures of the nature surrounding me.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akinimaginable/Akinimaginable.git"
+  },
+  "author": "Akinimaginable",
+  "license": "ISC",
+  "homepage": "https://akinimaginable.github.io/Akinimaginable/"
+}
