@@ -1,6 +1,6 @@
 # Hi, I'm Akinimaginable 🍂🍁
 
-High-school
+High-school student
 I enjoy creating things using lines of code, ricing my Linux, the opensource philosophy and taking pictures of the nature surrounding me.
 
 ### Linux:
