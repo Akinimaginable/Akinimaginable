@@ -6,7 +6,7 @@ I enjoy creating things using lines of code, ricing my Linux, the opensource phi
 ### Operating systems:
 GNU/Linux, ~~windows~~
 
-### Programing:
+### Programming:
 C, Python, Rust
 
 ### Web:
