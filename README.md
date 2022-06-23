@@ -1,15 +1,22 @@
 # Hi, I'm Akinimaginable 🍂🍁
 
-High-school student
+College student
 I enjoy creating things using lines of code, ricing my Linux, the opensource philosophy and taking pictures of the nature surrounding me.
 
 ### Operating systems:
-GNU/Linux, ~~windows~~
+![](https://skillicons.dev/icons?&i=linux) ~~Windows~~
 
 ### Programming:
-C, Python, Rust
+![](https://skillicons.dev/icons?&i=python,rust,bash)
 
 ### Web:
-HTML/CSS/JS/Svelte
+![](https://skillicons.dev/icons?i=html,css,sass,js,alpinejs)
 
-Akinimaginable
+### Tools:
+![](https://skillicons.dev/icons?&i=idea,vscode)
+
+### Learning:
+![](https://skillicons.dev/icons?&i=c,java)
+
+### Willing to learn:
+![](https://skillicons.dev/icons?&i=neovim,rocket) **or** ![](https://skillicons.dev/icons?&i=actix)
