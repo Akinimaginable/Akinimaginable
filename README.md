@@ -7,16 +7,16 @@ I enjoy creating things using lines of code, ricing my Linux, the opensource phi
 ![](https://skillicons.dev/icons?&i=linux) ~~Windows~~
 
 ### Programming:
-![](https://skillicons.dev/icons?&i=python,rust,bash)
+![](https://skillicons.dev/icons?&i=python,go,rust,bash)
 
 ### Web:
-![](https://skillicons.dev/icons?i=html,css,sass,js,alpinejs)
+![](https://skillicons.dev/icons?i=html,css,sass,js)
 
 ### Tools:
-![](https://skillicons.dev/icons?&i=idea,vscode)
+![](https://skillicons.dev/icons?&i=atom,idea,vscode)
 
 ### Learning:
-![](https://skillicons.dev/icons?&i=c,java)
+![](https://skillicons.dev/icons?&i=c,java, solid)
 
 ### Willing to learn:
 ![](https://skillicons.dev/icons?&i=neovim,rocket) **or** ![](https://skillicons.dev/icons?&i=actix)
