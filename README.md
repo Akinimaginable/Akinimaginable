@@ -16,7 +16,7 @@ I enjoy creating things using lines of code, ricing my Linux, the opensource phi
 ![](https://skillicons.dev/icons?&i=atom,idea,vscode)
 
 ### Learning:
-![](https://skillicons.dev/icons?&i=c,java, solid)
+![](https://skillicons.dev/icons?&i=c,java)
 
 ### Willing to learn:
-![](https://skillicons.dev/icons?&i=neovim,rocket) **or** ![](https://skillicons.dev/icons?&i=actix)
+![](https://skillicons.dev/icons?&i=neovim) and ![](https://skillicons.dev/icons?&i=actix)
