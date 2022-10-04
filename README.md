@@ -1,22 +1,17 @@
-# Hi, I'm Akinimaginable 🍂🍁
+# Hi there, I'm Ema,
+*also known as Akinimaginable*
 
-College student
-I enjoy creating things using lines of code, ricing my Linux, the opensource philosophy and taking pictures of the nature surrounding me.
+CS Studend in France
+I like to create things using lines of code, ricing my Linux, the opensource philosophy and taking pictures of the nature surrounding me.
 
-### Operating systems:
-![](https://skillicons.dev/icons?&i=linux) ~~Windows~~
+## Operating systems:
+GNU/Linux and from time to time M$ Windows
 
-### Programming:
-![](https://skillicons.dev/icons?&i=python,go,rust,bash)
+## Programming:
+Bash, Javascript, Python, Rust
 
-### Web:
-![](https://skillicons.dev/icons?i=html,css,sass,js)
+## Tools:
+Intellij Platform, Neovim and Vscodium
 
-### Tools:
-![](https://skillicons.dev/icons?&i=atom,idea,vscode)
-
-### Learning:
-![](https://skillicons.dev/icons?&i=c,java)
-
-### Willing to learn:
-![](https://skillicons.dev/icons?&i=neovim) and ![](https://skillicons.dev/icons?&i=actix)
+## Learning:
+C, Java and SQL
