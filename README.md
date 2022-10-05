@@ -1,4 +1,4 @@
-### Hi there, I'm Ema 🍁🍂,
+## Hi there, I'm Ema 🍁🍂,
 *aka Akinimaginable* 🇳🇱🇫🇷
 
 I’m a computer student in France ~~learning databases, algorithms and system programming~~ spending all my time ricing my GNU/Linux and creating random things by aligning characters to make lines of code.
@@ -16,7 +16,7 @@ Bash, Javascript, Python & Rust
 HTML, CSS/SCSS, JS/TS
 
 #### Tools
-Intellij Platform, (Neo)vim & Vscodium
+Intellij Platform, (neo)vim & Vscodium
 
 #### Learning
 C, Java & SQL
