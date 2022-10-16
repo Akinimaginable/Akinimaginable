@@ -18,4 +18,4 @@ Bash, CSS/SCSS, HTML, Javascript, Python, Rust, Intellij platform, (neo)vim  vsc
 C, Java, SQL and Typescript
 
 ### Contact
-You can contact me by sending a message on [Instagram](https://twitter.com/Akinimaginable "My Twitter") / [Twitter](https://https://www.instagram.com/akinimaginable/ "My Instagram") or email me at akn@etrange.org
+You can contact me by sending a message on [Instagram](https://https://www.instagram.com/akinimaginable/ "My Instagram") / [Twitter](https://twitter.com/Akinimaginable "My Twitter") or email me at akn@etrange.org
