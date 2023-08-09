@@ -13,22 +13,4 @@ I'm interest in many different topics such as:
 
 I'm also running a website with tutorials, pictures and blogs about many random things.
 
-## Languages
-
-Bash, C, C++, C#, Python, Rust
-
-## Web
-
-HTML, CSS/SCSS, JS
-
-## Tools
-
-Git, Mercurial, Figma, Intellij, Vim
-
-## Learning
-
-Java and SQL
-
-## Contact
-
 You can contact me by sending a message on [Instagram](https://www.instagram.com/akinimaginable/ "My Instagram") / [Twitter](https://twitter.com/Akinimaginable "My Twitter") or email me at akn@etrange.org
