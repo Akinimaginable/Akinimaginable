@@ -1,16 +1,13 @@
-# Heyaaa ~, I'm Ema ✨
+# Heyaaa ~, I'm Akinimaginable ✨
 
-*aka Akinimaginable* 🇳🇱 🇫🇷
-
-I’m a computer student in France ~~learning DB, algorithms and system programming~~ spending my time creating random things by aligning characters to make lines of code and ricing my GNU/Linux. I use arch btw
+I’m a software developper and computer student from France ~~learning DB, algorithms and system programming~~ spending my time creating random things by aligning characters to make lines of code and ricing my GNU/Linux.
 
 I'm interest in many different topics such as:
 
 - Design ✏
 - The open source philosophy 🌌
+- GNU/Linux
 - Photography 📸
-- North european languages 🦜
+- European languages 🦜
 
-I'm also running a website with tutorials, pictures and blogs about many random things.
-
-You can contact me by sending a message on [Instagram](https://www.instagram.com/akinimaginable/ "My Instagram") / [Twitter](https://twitter.com/Akinimaginable "My Twitter") or email me at akn@etrange.org
+You can contact me on Discord (@akinimaginable) or by emailing me at [akn@etrange.org](mailto:akn@etrange.org)
