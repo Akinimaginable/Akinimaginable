@@ -1,13 +1,7 @@
-# Heyaaa ~, I'm Akinimaginable ✨
+# Hi there, I'm Akinimaginable ✨
 
-I’m a software developper and computer student from France ~~learning DB, algorithms and system programming~~ spending my time creating random things by aligning characters to make lines of code and ricing my GNU/Linux.
+I’m a dev and DevOps currently studying computer science in France.
 
-I'm interest in many different topics such as:
+I'm interest in many different topics such as: design, macro and astro photography, the opensource philosophy, natural languages, computers'history and GNU/Linux.
 
-- Design ✏
-- The open source philosophy 🌌
-- GNU/Linux
-- Photography 📸
-- European languages 🦜
-
-You can contact me on Discord (@akinimaginable) or by emailing me at [akn@etrange.org](mailto:akn@etrange.org)
+You can contact me at [akn@etrange.org](mailto:akn@etrange.org)
